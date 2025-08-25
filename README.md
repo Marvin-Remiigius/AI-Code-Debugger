@@ -135,7 +135,7 @@ POST /analyze
 
 1. User writes or pastes code into Monaco Editor.
 2. On clicking **Analyze**, the frontend sends the code to `/analyze`.
-3. The Flask backend sends the code to Gemini API with a **strict JSON output prompt**.
+3. The Flask backend sends the code to Gemini Pro API with a **strict JSON output prompt**.
 4. The AI's response is parsed and displayed as highlights in the editor.
 
 ---

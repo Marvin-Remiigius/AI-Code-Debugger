@@ -142,3 +142,4 @@ POST /analyze
 
 ## 🙌 Built by
 **Team Hackcelerate**
+KK, JS, MR

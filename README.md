@@ -144,4 +144,5 @@ POST /analyze
 **Team Hackcelerate**
 Karikalan K
 Joy Shaju
+Marvin Remiigius
 

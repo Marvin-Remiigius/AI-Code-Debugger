@@ -3,6 +3,7 @@
 A full-stack web application that lets users write or paste code, then uses Google's Gemini AI to detect errors and suggest improvements. Errors are highlighted in **red** and suggestions in **yellow** directly inside the Monaco Editor.
 
 ---
+---
 
 ## 🚀 Features
 

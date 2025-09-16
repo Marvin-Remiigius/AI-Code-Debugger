@@ -143,4 +143,5 @@ POST /analyze
 ## 🙌 Built by
 **Team Hackcelerate**
 Karikalan K
+Joy Shaju
 

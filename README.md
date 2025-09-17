@@ -140,6 +140,7 @@ POST /analyze
 4. The AI's response is parsed and displayed as highlights in the editor.
 
 ---
+---
 
 ## 🙌 Built by
 **Team Hackcelerate**
